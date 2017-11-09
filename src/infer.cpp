@@ -1,7 +1,6 @@
-//Authors: Abel Teklu Hilemichael, Ali Karimoddini, Abdollah Homaifar
-//athailem@aggies.ncat.edu
-//NCAT ACESS LAB
-//The operations in this code performs fuzzy inference processes. They return firing level and output fuzzy set for a type-1 anf inteval type-2 FLSs 
+//Authors: Abel Teklu Hilemichael (athailem@aggies.ncat.edu), Ali Karimoddini (akarimod@ncat.edu)
+//About: The work has been done in ACESS Laboratory (http://accesslab.net/) at NC A&T State University
+//About: The operations in this code performs fuzzy inference processes. They return firing level and output fuzzy set for a type-1 and inteval type-2 FLSs 
 //which are based on both Mamdani and TSK inference techniques
 
 using namespace std;
